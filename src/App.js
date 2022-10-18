@@ -1,7 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
+  alert("로그아웃하시렵니까?");
   return (
     <div className="App">
       <header className="App-header">
